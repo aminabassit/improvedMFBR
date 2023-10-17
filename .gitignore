@@ -1,0 +1,7 @@
+**/build
+**/.vscode
+*.pdf
+*.pkl
+# *.csv
+# *.txt
+
